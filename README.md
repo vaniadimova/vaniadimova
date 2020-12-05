@@ -17,8 +17,9 @@ const vania = {
   tools: [React, Redux, Node, GatsbyJS, Swift, JSVanila],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
-                        study online: "EdX",
-                        "Cyber Security",
+                        study online: 
+                        "EdX - CS50",
+                        "Cyber Security - Udemy",
                         instructors: "...",
                         mentor: "Ph David Mulan"
                       },
@@ -30,4 +31,4 @@ const vania = {
 
 ---
 
-⭐️ From [@Vania](https://github.com/Vania)
+⭐️ From [@Vania](https://github.com/vaniadimova)
