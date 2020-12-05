@@ -5,7 +5,7 @@
 
 [![Twitter: VaniaDimova](https://img.shields.io/twitter/follow/VaniaDimova?style=social)](https://twitter.com/12Dimov)
 [![Linkedin: vaniadimova](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vandim/)](https://www.linkedin.com/in/vaniadimova/)
-[![GitHub vaniadimova](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![GitHub vaniadimova](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/vaniadimova/
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
