@@ -1,4 +1,5 @@
 ### Hi there 👋
+## I am currently working on MERN project
 
 <!--
 **vaniadimova/vaniadimova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
