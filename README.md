@@ -4,7 +4,7 @@
 </em></p>
 
 [![Twitter: VaniaDimova](https://img.shields.io/twitter/follow/VaniaDimova?style=social)](https://twitter.com/12Dimov)
-[![Linkedin: vaniadimova](https://img.shields.io/badge/-vaniadimova-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vandim/?originalSubdomain=ca](https://www.linkedin.com/in/vaniadimova/)
+[![Linkedin: vaniadimova](https://img.shields.io/badge/-vaniadimova-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vandim/)
 [![GitHub vaniadimova](https://img.shields.io/github/followers/vania?label=follow&style=social)](https://github.com/vaniadimova/)
 
 
@@ -27,7 +27,7 @@ const vania = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :),  </em>
 
 ---
 
