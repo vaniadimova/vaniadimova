@@ -31,4 +31,4 @@ const vania = {
 
 ---
 
-⭐️ From [@Vania](https://github.com/vaniadimova)
+⭐️ myportfolio21👩🏼‍🔧 [@Vania](https://vaniadimova21.netlify.app/)
