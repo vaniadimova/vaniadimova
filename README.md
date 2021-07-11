@@ -14,7 +14,7 @@
 const vania = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML5, CSS3, Python ],
-  tools: [React, Redux, Node, GatsbyJS, Swift, JSVanila],
+  tools: [React, Redux, Node, GatsbyJS, Swift, JSVanila,NextJs, VueJs],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         study online: 
@@ -26,7 +26,11 @@ const vania = {
  challenge: "I am doing the #100DaysOfCode challenge focused on react and gatsby"
 }
 ```
-
+## Expertise
+<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
+<img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :),  </em>
 
 ---
