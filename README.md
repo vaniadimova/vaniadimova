@@ -34,5 +34,9 @@ const vania = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :),  </em>
 
 ---
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+ 
+<!-- BLOG-POST-LIST:END -->
 
 ⭐️ myportfolio21👩🏼‍🔧 [@VaniaPortfolio21](https://vaniadimova21.netlify.app/)
