@@ -36,8 +36,11 @@ const vania = {
 ---
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-[4 Ways Quantum Computing will Change the World ] (https://vaniadimov.blogspot.com/2021/08/vdimov.blog.html)
-[Copilot does more than just parrot back code] (https://apiusage.blogspot.com/2021/07/github-and-openai-copilot-does-more.html)
+## 4 Ways Quantum Computing will Change the World  (https://vaniadimov.blogspot.com/2021/08/vdimov.blog.html)
+
+
+
+## Copilot does more than just parrot back code (https://apiusage.blogspot.com/2021/07/github-and-openai-copilot-does-more.html)
 <!-- BLOG-POST-LIST:END -->
 
 ⭐️ myportfolio21👩🏼‍🔧 [@VaniaPortfolio](https://www.vaniadimova.com)
