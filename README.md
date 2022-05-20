@@ -43,4 +43,4 @@ const vania = {
 ## Copilot does more than just parrot back code (https://apiusage.blogspot.com/2021/07/github-and-openai-copilot-does-more.html)
 <!-- BLOG-POST-LIST:END -->
 
-⭐️ myportfolio21👩🏼‍🔧 [@VaniaPortfolio](https://www.vaniadimova.com)
+⭐️ myportfolio21👩🏼‍🔧 [@VaniaPortfolio](https://vaniad.vercel.app/)]
