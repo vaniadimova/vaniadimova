@@ -1,6 +1,6 @@
 <h2> Hi, I'm Vania!From Toronto, Canada <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Freelance Developer <a href="http://www.deventweb.com">Self-thought Thanks to Open Source</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Check my personal website build with WordPress 🧜‍♀️ <a href="https://www.deventweb.com">www.deventweb.com</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Freelance Developer <a href="https://vaniad.vercel.app/>Self-thought Thanks to Open Source</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Check my personal website build with WordPress 🧜‍♀️ <a href="https://vaniad.vercel.app/">https://vaniad.vercel.app/</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: VaniaDimova](https://img.shields.io/twitter/follow/VaniaDimova?style=social)](https://twitter.com/12Dimov)
@@ -13,17 +13,16 @@
 ```javascript
 const vania = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML5, CSS3, Python ],
-  tools: [React, Redux, Node, GatsbyJS, Swift, JSVanila,NextJs, VueJs],
+  code: [Javascript, Typescript, HTML5, CSS3, Next.Js ],
+  tools: [React, Redux, Node, Swift, JSVanila, VueJs, VSCode],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         study online: 
                         "EdX - CS50",
                         "Cyber Security - Udemy",
                         instructors: "...",
-                        mentor: "Ph David Mulan"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and gatsby"
+                        mentor: "Ph David Mulan",
+                       " focused on React & Tailwind "
 }
 ```
 ## Expertise
