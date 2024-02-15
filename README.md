@@ -18,11 +18,11 @@ const vania = {
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         study online: 
-                        "EdX - CS50",
-                        "Cyber Security - Udemy",
-                        instructors: "...",
-                        mentor: "Ph David Mulan",
-                       " focused on React & Tailwind "
+                        "EdX",
+                        "Cyber Security Specialist",
+                        Skillsforall,
+                        mentor: The Internet,
+                       " focused on NextJs & Tailwindcss "
 }
 ```
 ## Expertise
